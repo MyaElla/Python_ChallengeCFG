@@ -1,5 +1,19 @@
 body {
 	font-family: "Rubik";
-	margin: 0px 0px 0px 0px;
-	padding:0px 0px 0px 0px;
+	margin: 10px 10px 10px 10px;
+	padding:10px 10px 10px 10px;
+}
+
+section.header-image {
+	padding:200px 0;
+}
+
+section.nonPC-result {
+	padding:100px 0;
+	text-align: center;
+}
+
+section.blockquote1 {
+	padding:100px 0;
+	text-align: center;
 }
